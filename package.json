@@ -1,0 +1,15 @@
+{
+  "name": "carehtml",
+  "version": "1.0.0",
+  "description": "Predict AI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CARE"
+  },
+  "author": "",
+  "license": "ISC"
+}
